@@ -1,3 +1,4 @@
 # HProductividad_Win
 Esta sección es creada para mis alumnas de Women IN de la BUAP
-PARA LAS SESION 2 Y 3 DE LA CLASE
+para la sesión 2 y 3 del modulo de Herramientas de productividad
+del curso de Ciencias de datos.
